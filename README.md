@@ -15,60 +15,6 @@ https://github.com/user-attachments/assets/3a03e859-c6b9-4c4b-bf7f-ab610b94eb28
 
 </details>
 
-<details>
-  <summary>configs/rei.conf</summary>
-
-https://github.com/user-attachments/assets/adc9491c-5078-4fb3-86ea-9b91be151412
-
-</details>
-
-<details>
-  <summary>configs/ken.conf</summary>
-
-https://github.com/user-attachments/assets/f0538425-c2e6-450e-9f40-d12b7bdbaa86
-
-</details>
-
-<details>
-  <summary>configs/silvia.conf</summary>
-
-https://github.com/user-attachments/assets/c90799f7-52bb-4c90-90db-4890281991c1
-
-</details>
-
-<details>
-  <summary>configs/everforest.conf</summary>
-
-<img width="1920" height="1080" alt="everforest" src="https://github.com/user-attachments/assets/36d64bf2-b05e-44cf-8bcc-f055381b216f" />
-
-
-</details>
-
-<details>
-  <summary>configs/catppuccin-latte.conf</summary>
-<img src="https://github.com/uiriansan/SilentSDDM/blob/main/docs/previews/catppuccin-latte.png" width="100%" />
-</details>
-
-<details>
-<summary>configs/catppuccin-frappe.conf</summary>
-<img src="https://github.com/uiriansan/SilentSDDM/blob/main/docs/previews/catppuccin-frappe.png" width="100%" />
-</details>
-
-<details>
-  <summary>configs/catppuccin-macchiato.conf</summary>
-<img src="https://github.com/uiriansan/SilentSDDM/blob/main/docs/previews/catppuccin-macchiato.png" width="100%" />
-</details>
-
-<details>
-  <summary>configs/catppuccin-mocha.conf</summary>
-<img src="https://github.com/uiriansan/SilentSDDM/blob/main/docs/previews/catppuccin-mocha.png" width="100%" />
-</details>
-
-<details>
-  <summary>configs/nord.conf</summary>
-<img src="https://github.com/uiriansan/SilentSDDM/blob/main/docs/previews/nord.png" width="100%" />
-</details>
-
 [`Customization guide`](#Customizing)
 
 # Dependencies
